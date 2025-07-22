@@ -196,6 +196,8 @@ isMaximal: {
       multicursors.enable = isMaximal;
       smart-splits.enable = isMaximal;
       undotree.enable = isMaximal;
+      nvim-biscuits.enable = isMaximal;
+
       motion = {
         hop.enable = true;
         leap.enable = true;
