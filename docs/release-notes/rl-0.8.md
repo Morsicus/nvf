@@ -479,6 +479,7 @@
 [soliprem](https://github.com/soliprem):
 
 - fix broken `neorg` grammars
+- remove obsolete warning in the `otter` module
 
 [Cool-Game-Dev](https://github.com/Cool-Game-Dev):
 
